@@ -1,5 +1,5 @@
 ### Hi there, I'm Nandor 👋
-I am a recent BSc graduate with honours in Biological Sciences. I am looking to venture further into the field of artificial intelligence. Also hoping to grow and develop whilst applying my skills in a professional setting, possibly through a masters degree. Cannot wait to participate in stimulating discussions and enhance my network. I am fascinated about computational finance and algorithmic trading📈. Not afraid of challenges!
+I am a recent BSc graduate with honours in Biological Sciences currently pursuing a master's degree in Financial Technology. I am looking to venture further into the field of artificial intelligence. Also hoping to grow and develop whilst applying my skills in a professional setting. Looking forward to participating in stimulating discussions and enhancing my network. I am fascinated about computational finance and algorithmic trading📈. Not afraid of challenges!
 
 ## My Values 
 🧠 Thoughtful & Inclusive Development  

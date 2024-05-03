@@ -1,5 +1,5 @@
 ### Hi there, I'm Nandor 👋
-I am a recent MSc graduate with honours in Financial Technology. I am fascinated about computational finance and algorithmic trading 📈. Not afraid of challenges!
+I am a recent MSc graduate with distinction in Financial Technology. I am fascinated about computational finance and algorithmic trading 📈. Not afraid of challenges!
 
 ## My Values 
 🧠 Thoughtful & Inclusive Development  
